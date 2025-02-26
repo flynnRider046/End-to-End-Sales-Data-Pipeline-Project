@@ -29,5 +29,25 @@ To implement this a cloudformation template is created which provisions resource
 ## Credits
 <strong>DataTech By AnandKumar</strong>
 
+## Results
+Below are the analysis which are performed on the transformed data using <strong>Redshift Query editor v2</strong>.
+Analysis 1: Query to Calculating the profit margin
+![Analysis1](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%201.png)
+
+Analysis 2: Query to filter data by Region 'Europe' an Year '2017'
+![Analysis2](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%202.png)
+
+Analysis 3: Query to count the number of regional sales
+![Analysis 3](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%203.png)
+
+Analysis 4: Query to showcase revenue, Cost, and Profit Trends Over Quarters
+![Analysis 4](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%204.png)
+
+Analysis 5: Query to calculate highest Revenue Generating Country in Each Year
+![Analysis 5](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%205.png)
+
+Analysis 6: Query to calculate total revenue and profit by year.
+![Analysis 6](https://github.com/flynnRider046/End-to-End-Sales-Data-Pipeline-Project/blob/438868c24db7faf1dedd1c44603f4ec60d0c5a19/Images/Analysis%206.png)
+
 ## References
 https://www.youtube.com/watch?v=6VJKR3sLTow&t=791s
